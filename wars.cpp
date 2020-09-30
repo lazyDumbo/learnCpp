@@ -1,4 +1,7 @@
 #include<bits/stdc++.h>
+
+//try implementing polymorphism
+//both runtime and compile time
 using namespace std;
 class Warrior{
 	private:
